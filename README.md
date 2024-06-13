@@ -6,4 +6,4 @@ They have supplied you with a csv file called "bank_marketing.csv", which you wi
 
 Lastly, you will write the SQL code that the bank can execute to create the tables and populate with the data from the csv files. As the bank are quite strict about their security, you'll provide the database design script as a .sql file that they can then run.
 
-You have been asked to design a database that will have three tables.
+PS Refer to the notebook for the rest of the instructions ...
